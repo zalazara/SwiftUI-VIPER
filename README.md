@@ -8,7 +8,7 @@ To install VIPER Xcode templates clone this repo and run the following command f
 
 To uninstall Xcode template run:
 
-```make uninstall_template``
+```make uninstall_template```
 
 After that, restart your Xcode if it was already opened.
 
