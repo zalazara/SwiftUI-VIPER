@@ -1,0 +1,5 @@
+import Foundation
+
+class ___VARIABLE_productName:identifier___Interactor: ___VARIABLE_productName:identifier___InteractorProtocol {
+
+}
