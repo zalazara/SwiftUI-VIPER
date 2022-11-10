@@ -28,6 +28,11 @@ Let's go over the basics quickly - the main components of VIPER are as follows:
 
 
 ## Modules
-You can think of one VIPER module as one screen. In the Modules folder we organize screens into logical groups which are basically user-stories.
+You can think of one VIPER module as one screen. In the Features folder we organize screens into logical groups which are basically user-stories.
 
 ![iOS VIPER MODULES](/Images/project_demo.png "iOS VIPER MODULES")
+
+## Useful links
+- https://tech.badoo.com/en/article/285/ios-architecture-patterns/
+- https://www.objc.io/issues/13-architecture/viper/
+- https://swifting.io/2016/03/07/VIPER-to-be-or-not-to-be.html
